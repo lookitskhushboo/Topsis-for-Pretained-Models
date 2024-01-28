@@ -8,7 +8,10 @@ Topsis to find best Pre-trained Model for Text Conversational
 
 
 ## **2. Input / Output**
-<img src="https://user-images.githubusercontent.com/7460892/207004091-8f67548d-50ac-49c3-b7cb-ef8ec18a6491.png" width="40%" height="40%">
+<p>Input</p>
+<img src="results_img.PNG" width="80%" height="60%">
+<p>Output</p>
+<img src="topsis_result_img.PNG" width="100%" height="80%">
 
 
 ## **3. Evaluation Metrics**
