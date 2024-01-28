@@ -1,5 +1,5 @@
 # Topsis-for-Pretained-Models
-Topsis to find best Pre-trained Model for Text Conversational
+Applying topsis to find best Pre-trained Model for Text Conversational
 ## **1. Methodology**
 1. Select 5 pretrained models.
 2. Generate reponses to some prompts.
